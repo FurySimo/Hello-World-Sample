@@ -1,0 +1,16 @@
+D:\Important Documents\GitHub Codes\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Important Documents\GitHub Codes\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Important Documents\GitHub Codes\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Important Documents\GitHub Codes\C#\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\Important Documents\GitHub Codes\C#\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Important Documents\GitHub Codes\C#\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
